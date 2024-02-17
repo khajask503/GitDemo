@@ -20,6 +20,12 @@ class cat extends Animal
 	public void meow()
 	{
 		System.out.println("All Cats Meow");
+		System.out.println(b2);
+		System.out.println(b3);
+		System.out.println(b4);System.out.println(b2);
+		System.out.println(b3);
+		System.out.println(b4);
+		
 	}
 }
 

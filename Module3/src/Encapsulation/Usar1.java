@@ -18,6 +18,11 @@ public class Usar1
 		Bank b1 = new Bank();
 	//b1.un="yhhyhjkd56@gmil.com";
 		System.out.println(b1);
+		System.out.println(b2);
+		System.out.println(b3);
+		System.out.println(b4);
+
+
 	}
 
 }

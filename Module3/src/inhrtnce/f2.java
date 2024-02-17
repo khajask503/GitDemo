@@ -29,6 +29,28 @@ public class f2
 	{
 		Animals d = new Animals();
           d.Eat();
+          
+  		System.out.println("All Aniamls eat");
+
 	}
 
+	public static void main(String[] args)
+	{
+		Animals d = new Animals();
+          d.Eat();
+	}
+
+	public static void main(String[] args)
+	{
+		Animals d = new Animals();
+          d.Eat();
+  		System.out.println("All Aniamls eat");
+
+		System.out.println("All Aniamls eat");
+
+		
+          
+	}
+
+	
 }

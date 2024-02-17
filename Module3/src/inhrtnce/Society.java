@@ -11,6 +11,13 @@ class son extends parents
 	public void marriage()
 	{
 		System.out.println("Love Marriage");
+		System.out.println("Arrange Marriage");
+
+		System.out.println("Arrange Marriage");
+
+		System.out.println("Arrange Marriage");
+
+		
 	}
 	public void friends()
 	{
@@ -25,6 +32,13 @@ public class Society
 	{
 		son c1 = new son();
         c1.friends();
+		System.out.println("Love Marriage");
+
+		System.out.println("Love Marriage");
+
+		System.out.println("Love Marriage");
+
+		
 	}
 
 }
